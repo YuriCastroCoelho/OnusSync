@@ -12,7 +12,7 @@ const float LIMITE_ALERTA_GRAMAS = 50.0; // Ajuste conforme necessário
 // --- CONFIGURAÇÕES DO WI-FI E API ---
 String SSID = "motog54"; 
 String PASSWORD = "caio12345"; 
-String SERVER = "onussync-api.onrender.com";
+String SERVER = "ony-test.onrender.com";
 String ENDPOINT = "/atualizar";
 String PORTA = "443"; 
 
